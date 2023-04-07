@@ -9,8 +9,7 @@ Python/Matplot/Regex/Text Analysis/Big Data/Sklearn
 - upper/lower case
 
 2. Feature Engineering
-Python package：
-from sklearn.feature_extraction.text import CountVectorizer from sklearn.feature_extraction.text import TfidfVectorizer Text to Vector
+- Python package：CountVectorizer & TfidfVectorizer
 - unigram: one word is taken as an input
 - Bigram: two words together are taken as one input
 - TFIDF
