@@ -16,4 +16,4 @@ Python/Matplot/Regex/Text Analysis/Big Data/Sklearn
 - Word2Vector Embedding
 
 3. Model Building
-Python package：random forest
+- Python package：random forest
